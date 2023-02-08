@@ -1,8 +1,8 @@
-### Hello there, <br/>
+### Hi dev, <br/>
 
 👋 Hi, I’m @iqbaalma, Learner Web Developement and currently learning JavaScript.<br>
 
-You can reach me on:<br/><br/>
+You can find me on:<br/><br/>
 <img src="https://img.shields.io/badge/Instagram-iqbaalna-white?logo=instagram&style=social"/> <br/>
 
 ---
