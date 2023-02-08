@@ -1,9 +1,10 @@
 ### Hi dev! <br/>
 
-👋 Hi, I’m @iqbaalma, Learner Web Developement and currently learning JavaScript.<br>
+👋 Hi, I’m <code>@iqbaalma</code>, Learner Web Developement and currently learning JavaScript.<br>
+I'm currently developing myself to switch careers from <code>designer</code> to <code>programmer</code>.
 
-You can find me on:<br/><br/>
-<img src="https://img.shields.io/badge/Instagram-iqbaalna-white?logo=instagram&style=social"/> <br/>
+<blockquote>You can find me on:<br/><br/>
+<img src="https://img.shields.io/badge/Instagram-iqbaalna-white?logo=instagram&style=social"/></blockquote> <br/>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaalma&layout=compact&theme=tokyonight&border_radius=0&hide_border=true)]()
