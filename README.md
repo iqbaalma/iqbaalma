@@ -8,4 +8,6 @@ I'm currently developing myself to switch careers from <code>designer</code> to 
 
 [![Iqbal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iqbaalna&theme=yeblu&include_all_commits=true&border_radius=0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Iqbal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbaalma&theme=yeblu&count_private=true&include_all_commits=true&show_icons=true&border_radius=0&hide_border=true)]() [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaalma&layout=compact&theme=yeblu&border_radius=0&hide_border=true)]()
+[![Iqbal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbaalma&theme=yeblu&count_private=true&include_all_commits=true&show_icons=true&border_radius=0&hide_border=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaalma&layout=compact&theme=yeblu&border_radius=0&hide_border=true)]()
