@@ -1,4 +1,4 @@
-### Hi dev! <br/>
+### Hello dev! <br/>
 
 👋 Hi, I’m <code>@iqbaalma</code>, learner Web Developement and currently learning JavaScript.<br>
 I'm currently developing myself to switch careers from <code>designer</code> to <code>programmer</code>.
