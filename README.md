@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working as Graphic Designer<br>🌱 I’m currently learning ReactJS<br>⚡ I wanna switch career
 
+## Activity:
+[![wakatime](https://wakatime.com/badge/user/123f8b95-560d-4424-9cdb-be7a5fbcdcab.svg)](https://wakatime.com/@123f8b95-560d-4424-9cdb-be7a5fbcdcab)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iqbaalna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-iqbal-maulana-82a916214/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iqbalna_) 
