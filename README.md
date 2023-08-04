@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Graphic Designer<br>🌱 I’m currently learning ReactJS<br>⚡ I wanna switch career
+🔭 Front-End Dev and also Graphic Designer<br>🌱 I’m currently learning ReactJS<br>⚡ I wanna switch career<br>🚀 Founder of buatusaha indonesia
 
 ## ⏳ Activity:
 [![wakatime](https://wakatime.com/badge/user/123f8b95-560d-4424-9cdb-be7a5fbcdcab.svg)](https://wakatime.com/@123f8b95-560d-4424-9cdb-be7a5fbcdcab)
