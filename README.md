@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 Front-End Dev and also Graphic Designer<br>🌱 I’m currently learning ReactJS<br>⚡ I wanna switch career<br>
-
 ## ⏳ Activity:
 [![wakatime](https://wakatime.com/badge/user/123f8b95-560d-4424-9cdb-be7a5fbcdcab.svg)](https://wakatime.com/@123f8b95-560d-4424-9cdb-be7a5fbcdcab)
 
